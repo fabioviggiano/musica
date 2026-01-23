@@ -1,0 +1,9 @@
+# Foo Fighters - Concrete and Gold (Recensione)
+
+Nei lontani tempi che furono, durante le scuole superiori, io e qualche compagno di classe scoprivamo il rock’n’roll, la classica fase adolescenziale da maglie nere e accessori vari. In una delle infinite discussioni su artisti, si chiacchierava su chi avremmo voluto essere in una vita parallela in quel panorama di chitarre distorte e capelli lunghi. Un compagno rispose senza esitazioni: **Dave Grohl**. Col tempo gli diedi ragione; d'altronde era ed è un artista che con due band diverse (**Nirvana** negli anni ‘90 e **Foo Fighters** subito dopo) ha segnato la storia del rock contemporaneo.
+
+Né lui né loro hanno bisogno di presentazioni. Di recente pubblicazione è il loro ultimo album, *Concrete and Gold*; la cui copertina richiama la durezza delle rocce e al centro le iniziali della band in color oro.
+
+L'apertura è affidata a un lento risveglio, un arpeggio con una base di tastiere. Dura il giusto, poco più di un minuto, per poi trovarci tra *overdrive* e rullate, sferzate veloci nello stile Foo Fighters. C'è un marchio di fabbrica che si avverte in molti riff e riprese, un filo continuo con il passato. Brani come *La Dee Da* o i due singoli di anteprima (*Run* e *The Sky is a Neighborhood*) fanno muovere la testa a ritmo e simulare qualche urlo "ghroliano".
+
+Da qui in poi l'album torna a essere più o meno lento (se si esclude *Arrows*). La sensazione è che sia un album prodotto e realizzato per la necessità di pubblicare nuovo materiale, più che un guizzo artistico. L’effigie Foo Fighters è e sarà per molto tempo *headbanging* e goliardaggine, ma difficilmente torneremo ad avere gli album che furono. Ciò che ci aspetta resta un concerto che, se anche inserirà in scaletta questo album salvo i brani citati, prevederà un *best of* della band americana per rendere l'esperienza live unica ed emozionante come gli americani riescono.
