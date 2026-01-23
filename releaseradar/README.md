@@ -7,8 +7,6 @@ Questa semplice abitudine è rapidamente evoluta in una vera e propria raccolta,
 Ci sono stati momenti in cui non sono riuscito a essere regolare, saltando qualche uscita per altri impegni, ma ho sempre avuto il rammarico di non poter condividere tutte le novità.  
 
 **Cosa troverai nella cartella Release Radar:**  
-- Tutti gli album e singoli pubblicati ogni venerdì, dall’Italia e dal mondo.  
-- Artisti e generi diversi, selezionati tramite ricerche e aggiornamenti quotidiani.  
-- Una panoramica aggiornata di ciò che è nuovo nella musica, per non perdere mai le uscite più interessanti.  
+- Tutti gli album, raccolte, EP e singoli pubblicati ogni venerdì, dall’Italia e dal mondo divisi per anno.  
 
 Questa cartella è quindi una vera e propria guida settimanale per chi ama scoprire nuove uscite e tenersi sempre aggiornato su ciò che succede nel panorama musicale.
