@@ -272,6 +272,3 @@
 * Ariete - Club
 * Fulminacci - Brutte compagnie
 * Thundercat - Satellite
-
----
-*Fine Archivio richiesto.*
