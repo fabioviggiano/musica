@@ -1,5 +1,6 @@
 # Roger Waters
-#### 4 date sold out, Unipol Arena – Bologna
+#### 01/01/2024
+## Unipol Arena – Bologna
 
 Quattro date **sold out** all'**Unipol Arena**, per un totale di circa **40.000 spettatori** in meno di una settimana. Sul palco, un uomo che ha fatto la storia della musica: **Roger Waters**, fondatore dei Pink Floyd.
 
