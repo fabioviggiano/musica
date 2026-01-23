@@ -1,4 +1,4 @@
-# 🎧 Archivio cmpleto Release Radar (2019-2022)
+# 🎧 Archivio completo Release Radar (2019-2022)
 
 ## 📅 ANNO 2019
 
