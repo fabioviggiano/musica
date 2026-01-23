@@ -1,5 +1,5 @@
 #,Data,Evento,Location,Città,Tipologia,Artista/i
-1,13/06/2000,"Lour Reed, Bluevertigo, Alanis Morrisette, Youssou N'Dour, Eurythmics @ Concerto del Primo Maggio",,Tor Vergata,Roma,Festival,3
+1,13/06/2000,"Lour Reed, Bluevertigo, Alanis Morrisette, Youssou N'Dour, Eurythmics @ Concerto del Primo Maggio",Tor Vergata,Roma,Festival,3
 2,26/08/2006,{S}Hammer Metal Fest - 3° Edizione,,Campo sportivo,Castel Volturno (CE),Festival,3
 3,13/06/2007,Stone Sour + Slayer + Iron Maiden @ Heineken Jammin Festival,,Parco San Giuliano ,Venezia,Festival,5
 4,01/09/2007,Amon Amarth + Stratovarius + Behemoth + Caliban @  Route To Hell Metal Fest,,Palamaggiò,Castelmorrone (CE),Festival,5
@@ -914,3 +914,4 @@
 879,,,,,,,
 880,,,,,,,
 881,,,,,,,
+
