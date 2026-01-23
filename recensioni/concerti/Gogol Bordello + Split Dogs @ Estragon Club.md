@@ -2,8 +2,6 @@
 #### 4/10/2025
 ## Estragon Club, Bologna
 
-**Bologna, 5/10/2025**
-
 Dopo un’estate che ha visto l’**Estragon Club** dislocare i suoi eventi tra il *Di Mondi Festival* in Piazza Lucio Dalla e il *Botanique* ai Giardini Filippo Re, siamo tornati ieri sera, **4 ottobre**, nella sua storica sede a fianco dell’**Arena Parco Nord**.
 
 La pedalata in bici verso il locale è stata un freddo battesimo autunnale, presagio di pioggia e del primo vero freddo umido. Nonostante il clima esterno, l’ingresso all’Estragon ha rivelato un’atmosfera vibrante e un calore inaspettato. Tra il pubblico già numeroso si percepiva non solo l’eccitazione per i leggendari **Gogol Bordello**, ma anche un forte senso di festa e condivisione, tra volti conosciuti e accenti che tradivano viaggi da diverse regioni.
