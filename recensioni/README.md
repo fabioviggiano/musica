@@ -5,16 +5,13 @@ Questa cartella raccoglie le mie recensioni relative mondo della musica, suddivi
 ## Struttura delle cartelle
 
 - **album**  
-  Contiene recensioni, commenti e raccolte di album musicali.  
-  *Ultimo aggiornamento:* Creazione file "Le Feste Antonacci - Grandi successi.md"
+  Contiene recensioni, commenti e raccolte di album musicali.
 
 - **concerti**  
   Include elenchi, resoconti e riflessioni sui concerti a cui ho partecipato.  
-  *Ultimo aggiornamento:* Creazione file "Concerti 2016.md"
 
 - **misc**  
   Raccoglie contenuti vari e interviste, come quella a Emidio Clementi.  
-  *Ultimo aggiornamento:* Creazione file "Intervista ad Emidio Clementi.md"
 
 ---
 
