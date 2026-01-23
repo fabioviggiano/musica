@@ -4,7 +4,7 @@ Nel 2019, spinto dalla mia passione per la musica, decisi di iniziare a trascriv
 
 Questa semplice abitudine è rapidamente evoluta in una vera e propria raccolta, che ho iniziato a condividere sui social: prima tramite le storie Instagram, poi con un canale dedicato, e infine sul sito [FestivalsBackpack.it](https://www.festivalsbackpack.it), con cui collaboro da tempo. Sul sito continuo a pubblicare ogni venerdì (o quasi) tutti gli album e singoli nuovi, sia italiani sia internazionali, attraverso ricerche e aggiornamenti dal mondo della musica.  
 
-Ci sono stati momenti in cui non sono riuscito a essere regolare, saltando qualche uscita per altri impegni, ma ho sempre avuto il rammarico di non poter condividere tutte le novità con voi.  
+Ci sono stati momenti in cui non sono riuscito a essere regolare, saltando qualche uscita per altri impegni, ma ho sempre avuto il rammarico di non poter condividere tutte le novità.  
 
 **Cosa troverai nella cartella Release Radar:**  
 - Tutti gli album e singoli pubblicati ogni venerdì, dall’Italia e dal mondo.  
