@@ -1,4 +1,5 @@
-# Gemini Festival 2024 – Prima serata  
+# Gemini Festival
+#### 16/05/2024
 ## DumBO, Bologna | 16 maggio
 
 Il **16 maggio** ha segnato il via della **terza edizione del Gemini Festival**, un appuntamento ormai cerchiato in rosso dai cultori della musica che non teme etichette, ideato e prodotto con passione dall’**Associazione Shape**.
