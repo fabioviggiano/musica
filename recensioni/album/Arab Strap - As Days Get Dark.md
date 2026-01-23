@@ -1,4 +1,4 @@
-# Recensione Arab Strap - As Days Get Dark
+# Arab Strap - As Days Get Dark
 
 Quanti anni può aspettare una band prima di pubblicare un nuovo album? Gli **Arab Strap** probabilmente non si sono posti il problema e ne hanno attesi 16, pubblicando il loro nuovo lavoro discografico: *As Days Get Dark*.
 

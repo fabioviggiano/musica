@@ -1,4 +1,4 @@
-# Subsonica - Microchip Temporale (Opinione non richiesta)
+# Subsonica - Microchip Temporale
 
 Andiamo dritti al sodo: prova superata a voti alti. Certo, qualche momento è più debole, ma in generale si percepisce che il lavoro svolto è stato intenso. L'album è stato riarrangiato egregiamente. Se le melodie restano quasi identiche alle quattordici tracce del 1999, cambiano le tonalità, si sostituiscono alcuni strumenti e vengono ricalcati passaggi cruciali.
 

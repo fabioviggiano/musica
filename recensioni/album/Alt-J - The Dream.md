@@ -1,4 +1,4 @@
-# Recensione Alt-J - The Dream
+# Alt-J - The Dream
 
 Aspettavo da un po' il nuovo album degli **Alt-J**, in un misto tra la paura di un lavoro non all'altezza del loro disco d'esordio (*An awesome wave*) e la trepidazione, perché peggio dell’ultimo album (*Relaxer*) era davvero difficile fare. I singoli in anteprima, va detto, facevano ben sperare.
 

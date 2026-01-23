@@ -1,4 +1,4 @@
-# Recensione Marracash - Persona
+# Marracash - Persona
 
 Dopo qualche anno di silenzio e sporadiche collaborazioni, torna sulla scena musicale **Marracash** con il disco *Persona*. È un *concept album* in cui, brano dopo brano, l'artista racconta di sé e del mondo che lo circonda usando elementi del corpo (ogni traccia è intitolata con un elemento).
 

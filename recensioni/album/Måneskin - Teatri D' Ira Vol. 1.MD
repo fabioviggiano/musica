@@ -1,6 +1,4 @@
- Recensione Måneskin - Teatri D' Ira Vol. 1
-
-**Disco del giorno**
+# Måneskin - Teatri D' Ira Vol. 1
 
 Mi ricordo i quattro romani a *X Factor*; fu un'edizione che seguii anche grazie a loro. Arrivati ai provini ancora minorenni e con un'esperienza da *busker* per le strade romane, nel giro di due mesi e con un percorso in ascesa si trovarono finalisti al Mediolanum Forum di Milano davanti a 20.000 persone, in una scenografia che neanche i migliori gruppi con un’esperienza ventennale.
 

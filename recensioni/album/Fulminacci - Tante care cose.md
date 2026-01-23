@@ -1,4 +1,4 @@
-# Recensione Fulminacci - Tante Care Cose
+# Fulminacci - Tante Care Cose
 
 Pubblicato quest'oggi, il secondo album di **Filippo Uttinacci**, in arte **Fulminacci**.
 

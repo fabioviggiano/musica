@@ -1,4 +1,4 @@
-# Foo Fighters - Concrete and Gold (Recensione)
+# Foo Fighters - Concrete and Gold
 
 Nei lontani tempi che furono, durante le scuole superiori, io e qualche compagno di classe scoprivamo il rock’n’roll, la classica fase adolescenziale da maglie nere e accessori vari. In una delle infinite discussioni su artisti, si chiacchierava su chi avremmo voluto essere in una vita parallela in quel panorama di chitarre distorte e capelli lunghi. Un compagno rispose senza esitazioni: **Dave Grohl**. Col tempo gli diedi ragione; d'altronde era ed è un artista che con due band diverse (**Nirvana** negli anni ‘90 e **Foo Fighters** subito dopo) ha segnato la storia del rock contemporaneo.
 

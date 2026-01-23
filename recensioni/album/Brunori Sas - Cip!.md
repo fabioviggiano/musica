@@ -1,4 +1,4 @@
-# Recensione Brunori Sas - Cip!
+# Brunori Sas - Cip!
 
 A proposito di **"Cip!"**, ultimo lavoro discografico di **Brunori Sas**.
 

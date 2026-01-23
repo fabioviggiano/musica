@@ -1,5 +1,8 @@
-# Sono tornati: meno punk, più hip hop, stessa guerra
-#### Recensione e analisi del nuovo disco
+# P38 - Dittatura
+
+## Sono tornati: meno punk, più hip hop, stessa guerra
+
+### Recensione e analisi del nuovo disco
 
 Sono tornati, a distanza di quasi cinque anni dal primo disco che fece “tremare” le istituzioni. Un debutto che non si limitò a far discutere, ma che provocò una risposta degna di uno Stato democratico nella sua forma più nervosa: **denunce, perquisizioni, accuse di terrorismo**.
 

@@ -1,4 +1,4 @@
-# Recensione Fiona Apple - Fetch The Bolt Cutters
+# Fiona Apple - Fetch The Bolt Cutters
 
 A me il jazz solitamente non piace, non mi fa impazzire il barocco, non prediligo i soli pianistici e avverto talvolta una leggera ritrosia verso il cosiddetto "art pop". Eppure, con *Fetch The Bolt Cutters*, ultimo album della pianista e cantautrice **Fiona Apple**, devo arrendermi e sventolare bandiera bianca sul mio scetticismo verso questi tratti distintivi.
 

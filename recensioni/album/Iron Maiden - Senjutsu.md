@@ -1,4 +1,5 @@
- Recensione (poco onesta) di Iron Maiden - Senjutsu
+#  Iron Maiden - Senjutsu
+## Recensione (poco onesta) di Iron Maiden - Senjutsu
 
 Scrivono pezzi su questa linea da circa 15 anni. A volte, viene il dubbio che copino e incollino parti dei vecchi brani, e poi nel mezzo ci infilino qualche assolo a caso e le urla di **Bruce Dickinson**, il tutto con un sudatissimo **Kevin Shirley** (NdA: il produttore) che applaude, urla “Yeah” e poi si schiaffa in fronte una lattina di birra al pensiero che qualsiasi cosa uscirà, lui farà i soldi, una marea di soldi.
 
