@@ -1,5 +1,6 @@
 # Robot Festival 16 – Un viaggio onirico tra codice, riti e frequenze
-#### DumBO, Bologna
+#### 01/01/2020
+## DumBO, Bologna
 
 Il **Robot Festival**, giunto alla sua sedicesima edizione, si è manifestato come un “cammino dei sogni”, un percorso curatoriale fedele al manifesto *Dream On*, mirato a un “ricongiungimento alla coscienza collettiva”. La mia maratona personale del festival è iniziata sotto il sole già alto, tra i primi membri dello staff al DumBO, partecipando al programma collaterale *Robot 16 Learn*.
 
