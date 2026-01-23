@@ -1,4 +1,6 @@
-# Zen Circus live – Una serata sotto il tendone
+# Zen Circus 
+#### 01/01/1990
+## Teatro Duse, Bologna
 
 > “Scaletta speciale e sorprese varie. Porteremo un vero e proprio circo sul palco.”
 
