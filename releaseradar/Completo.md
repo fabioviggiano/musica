@@ -1,4 +1,4 @@
-# 🎧 Archivio Completo Release Radar (2019-2021)
+# 🎧 Archivio cmpleto Release Radar (2019-2022)
 
 ## 📅 ANNO 2019
 
@@ -274,8 +274,6 @@
 * Thundercat - Satellite
 
 ## 📅 ANNO 2022
-
-# 🎧 Release Radar 2022
 
 ### Gennaio 2022
 
