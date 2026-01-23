@@ -1,5 +1,5 @@
 # Dada’ 'Core in fabula'
-## 04/12/2025
+#### 04/12/2025
 ## Locomotiv Club, Bologna
 
 **DADA’**, nome d’arte di **Gaia Eleonora Cipollaro**, è una cantautrice italiana che ha saputo costruire un’identità artistica unica, fondendo la tradizione musicale napoletana con l’elettronica e la world music. Nota al grande pubblico per la sua partecipazione a **X Factor 2022** nella squadra di **Fedez**, ieri sera ha portato il suo personale universo sonoro sul palco del **Locomotiv Club di Bologna**.
