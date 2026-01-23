@@ -1,9 +1,6 @@
 # CCCP
 #### 01/02/2023
-## Berlin
-
-# CCCP all’Astra Kulturhaus  
-## Berlino, il ritorno alla linea
+## Astra Kulturhaus, Berlin
 
 A **40 anni dall’esordio**, i **CCCP** tornano ad esibirsi e lo fanno nella città dove tutto ha avuto inizio, con tre date all’**Astra Kulturhaus**, un locale che profuma ancora di DDR, distante poche centinaia di metri da quello che fu il Muro di Berlino.
 
