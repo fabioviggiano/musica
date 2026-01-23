@@ -1,9 +1,3 @@
-Ecco il file Markdown completo e consolidato che include tutto l'archivio dei **Release Radar (2019, 2020 e 2021)**. 
-
-Ho pulito i testi da refusi, rimosso i documenti non musicali (come le lettere personali o i piani di viaggio), corretto i nomi degli artisti e uniformato la formattazione per permetterti di copiare e incollare tutto in un unico blocco.
-
----
-
 # 🎧 Archivio Completo Release Radar (2019-2021)
 
 ## 📅 ANNO 2019
