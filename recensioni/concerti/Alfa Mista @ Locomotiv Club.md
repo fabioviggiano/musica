@@ -1,5 +1,6 @@
-# Alfa Mist al Locomotiv Club – Bologna
-
+# Alfamist
+#### 
+## Locomotiv Club, Bologna
 Un’umidità spacca-ossa è calata su tutta la Bolognina. La soluzione a questo freddo è accelerare il passo, soffiare nell’aria per riabituarsi alle nuvolette di vapore acqueo che emaniamo nella sera e infilarsi dentro il **Locomotiv Club**, con le sue pareti rosse costellate di poster che ricordano alcuni dei concerti più noti del locale.
 
 ## Il pubblico e l’attesa
