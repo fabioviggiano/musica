@@ -1,4 +1,5 @@
-# Workshop Rumore – Scrivere di Musica
+# Workshop Rumore – Scrivere di Musica - Giorno 1
+## Bologna
 
 ## Esempi citati
 - **Beggars Opera** – *Raymons Road* (1971)  
@@ -83,4 +84,59 @@
 - Scrivere **per il lettore**, non per sé stessi  
 - Stile personale equilibrato, senza egocentrismo  
 - Educazione sentimentale: riferimenti a letture, quadri, film  
-- Preparazi
+- Preparazione:  
+  - Ascolto multiplo dell’album  
+  - Appunti a mano con associazioni mentali  
+  - Revisione e limatura continua  
+- Contestualizzazione:  
+  - Percorso dell’artista  
+  - Similitudini e influenze, riferimenti espliciti  
+- Stroncatura:  
+  - Fa scena ma deve essere **argomentata**  
+  - Talvolta inutile: meglio valorizzare chi merita  
+
+---
+
+## Considerazioni finali
+- Non esistono paradigmi o regole fisse  
+- Critica musicale bilancia **informazione e scrittura**  
+- Commercialità e contesto storico: inevitabili  
+- Esempi storici:  
+  - Crass (Anarco Punk, DIY)  
+  - Daft Punk (viaggio musicale)  
+  - Tinawiren (tutti i crismi)  
+---
+
+# Workshop Rumore – Scrivere di Musica (Giorno 2)
+
+## Scrittura, lettura e commento alle recensioni concerto
+- Allargare il discorso senza ripetere informazioni già note.  
+- Obiettivo: fornire **contestualizzazione e suggestioni** senza ridondanza.  
+
+---
+
+## Intervista – Preparazione
+- Dedicarsi alla **preparazione approfondita**.  
+- Coloritura del contesto, a seconda del contesto dell’intervista.  
+- Enfatizzare passaggi detti spesso, renderli più incisivi.  
+- Alleggerire il discorso e far scattare **empatia** con l’intervistato.  
+- Preparare una **griglia di domande base**, anche se scontate.  
+- Preparare domande più **specifiche**, con un cuscinetto di domande generali.  
+- Strategie:  
+  - Alternare domande ampie e domande più mirate  
+  - Ripartire da vecchie domande per introdurre nuove domande  
+  - Preparare **qualche domanda extra** rispetto a quelle che si vogliono fare  
+
+---
+
+## Intervista – Post produzione
+- Riportare le risposte **fedelmente**, includendo il contesto e il “modo di parlare” dell’intervistato.  
+- Scegliere cosa **salvare e cosa eliminare**.  
+- Limare le battute sacrificando alcune domande se necessario.  
+- Organizzazione del materiale secondo scelta dell’intervistatore:  
+  - Possibile **spostamento dell’ordine delle domande** per maggiore chiarezza e fluidità  
+
+---
+
+## Libri consigliati
+- *Tutti ti amano quando sei morto* (suggerito per approfondire il giornalismo musicale e le interviste)
