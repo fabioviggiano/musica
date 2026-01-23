@@ -1,4 +1,3 @@
-Concerti 2024,,,,,,,,,,,
 #,Data,Evento,,Location,Città,Tipologia,Artista/i,Costo,,Concerti,83
 1,05/01/2024,Gianni Drudi ,,Binario 69,Bologna,Concerto,1,"€ 5,00",,Festival,6
 2,11/01/2024,Jam Session,,Binario 69,Bologna,Concerto,1,"€ 1,50",,Presentazione CD,0
@@ -45,7 +44,8 @@ Concerti 2024,,,,,,,,,,,
 43,05/07/2024,Salmo Noyz @ Sequoie Music Park,,Parco delle Caserme Rosse,Bologna,Concerto,1,"€ 50,00",,,
 44,06/07/2024,Da che parte stai? Dutch Nazari - Davide Shorty - Egreen,,Parco della Montagnola,Bologna,Concerto,3,"€ 0,00",,,
 45,12/07/2024,JoyCut @ BOtanique,,Giardini Filippo Re,Bologna,Concerto,1,"€ 0,00",,,
-46,13/07/2024,"Napoli Segreta @ Montagnola Republic",,Montagnola,Bologna,Concerto,1,"€ 0,00",,,
+46,13/07/2024,"Napoli Segreta @ Montagnola Republic
+",,Montagnola,Bologna,Concerto,1,"€ 0,00",,,
 47,17/07/2024,King Hannah @ Botanique,,Giardini Filippo Re,Bologna,Concerto,1,"€ 0,00",,,
 48,19/07/2024,Sandro Joyeux @ Di Mondi Festival ,,Piazza Lucio Dalla,Bologna,Concerto,1,"€ 0,00",,,
 49,20/07/2024,A Toys Orchestra @ Botanique,,Giardini Filippo Re,Bologna,Concerto,1,"€ 0,00",,,
@@ -944,4 +944,5 @@ Concerti 2024,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
+
 ,,,,,,Concerto,1,,,,
