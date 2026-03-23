@@ -73,4 +73,4 @@ Un Neffa in forma smagliante per un’ora e 45 minuti di live iconico. Un ritorn
 *   **Aspettando il sole**
 
 ---
-*Recensione a cura di [Tuo Nome/User]*
+*Recensione a cura di Fabio Viggiano
