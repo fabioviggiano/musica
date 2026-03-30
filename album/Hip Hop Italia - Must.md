@@ -12,5 +12,6 @@
 - Salmo - Hellvisback (2016)
 - Marracash, Guè - Santeria (2016)
 - Massimo Pericolo - Scialla semper (2019)
+- Geolier - Emanuele (Marchio registrato) (2020)
 - Marracash - Persona (2019)
 - Marracash - Noi, loro, gli altri (2021)
