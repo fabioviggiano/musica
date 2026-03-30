@@ -15,3 +15,4 @@
 - Geolier - Emanuele (Marchio registrato) (2020)
 - Marracash - Persona (2019)
 - Marracash - Noi, loro, gli altri (2021)
+- Danno - AKA Danno (2026)
