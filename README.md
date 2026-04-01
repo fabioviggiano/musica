@@ -1,4 +1,4 @@
-# 🎧 Il mio Archivio Musicale
+# 🎧 Archivio musicale a cura di Fabio Viggiano
 
 ![Recensioni](https://img.shields.io/badge/Contenuti-Recensioni_Musicali-1DB954?style=flat-square&logo=spotify&logoColor=white)
 ![Live](https://img.shields.io/badge/Live-Concerti_%26_Festival-FF4136?style=flat-square&logo=ticketmaster&logoColor=white)
@@ -12,7 +12,7 @@ Qui troverai recensioni ragionate, reportage di concerti sotto cassa, appunti da
 
 Ho organizzato i contenuti in cartelle tematiche per facilitare la navigazione:
 
-*   📡 **[`/release-radar`](./release-radar)** — Il fiore all'occhiello: l'elenco completo delle nuove uscite musicali di ogni venerdì, archiviate meticolosamente dal 2019 ad oggi.
+*   📡 **[`/release-radar`](./release-radar)** — Elenco completo delle nuove uscite musicali di ogni venerdì, raccolte e archiviate meticolosamente dal 2019 ad oggi.
 *   📂 **[`/album`](./album)** — Recensioni di dischi, EP e nuove uscite.
 *   🎫 **[`/concerti`](./concerti)** — Reportage e recensioni dei concerti dal vivo.
 *   🎪 **[`/festival`](./festival)** — Diari di bordo e recensioni dei festival musicali a cui ho partecipato.
@@ -25,8 +25,6 @@ Ho organizzato i contenuti in cartelle tematiche per facilitare la navigazione:
 Se cerchi un elenco riepilogativo per orientarti velocemente, ho preparato questi file:
 - 📖 [**Indice Completo degli Album Recensiti**](./INDICE_ALBUM.md)
 - 🎸 [**Indice di tutti i Concerti e Festival**](./INDICE_LIVE.md)
-
-**Tip di navigazione:** Tutti i file sono nominati per data (es: `2024-10-25-Artista-Album.md`). Ordinando i file per nome, vedrai sempre i contenuti più recenti in cima!
 
 ---
 *“Scrivere di musica è come ballare di architettura.”* — (Attribuita a vari, ma io ci provo lo stesso).
