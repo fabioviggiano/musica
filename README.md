@@ -22,8 +22,8 @@ Ho organizzato i contenuti in cartelle tematiche per facilitare la navigazione:
 ## 🧭 Indici Rapidi
 
 Se cerchi un elenco riepilogativo per orientarti velocemente, ho preparato questi file:
-- 📖 [**Indice Completo degli Album Recensiti**](./INDICE_ALBUM.md)
-- 🎸 [**Indice di tutti i Concerti e Festival**](./INDICE_LIVE.md)
+- 📖 [**Indice completo degli album recensiti**](./INDICE_ALBUM.md)
+- 🎸 [**Indice di tutti i concerti e Festival a cui ho partecipato**](./INDICE_LIVE.md)
 
 ---
 *“Scrivere di musica è come ballare di architettura.”* — (Attribuita a vari, ma io ci provo lo stesso).
