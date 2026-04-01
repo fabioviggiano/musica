@@ -19,7 +19,7 @@ Questo file è l'elenco riepilogativo di tutti i concerti e gli eventi live viss
 *   📅 [2023](./concerti/storico-database/2023.csv)
 *   📅 [2024](./concerti/storico-database/2024.csv)
 *   📅 [2025](./concerti/storico-database/2025.csv)
-*   📅 [2026](./concerti/storico-database/2026.csv) **Work in progress*
+*   📅 [2026](./concerti/storico-database/2026.csv) **Work in progress**
 
 ---
 
