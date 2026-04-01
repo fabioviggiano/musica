@@ -2,9 +2,21 @@
 
 Questo file è l'elenco riepilogativo di tutti i dischi, EP e mixtape recensiti in questo archivio. È pensato per offrirti una panoramica rapida, senza dover scorrere le singole cartelle.
 
-> 💡 **Come funziona:** Clicca su "📖 Leggi" per aprire la recensione completa dell'album.
 
 ---
+
+## 🏆 Recap e Classifiche
+
+Se stai cercando i "Best Of" e i resoconti annuali, li trovi raggruppati qui:
+
+*   🥇 [Le mie classifiche di fine anno (AOTY)](./album/README.md#🏆-le-mie-classifiche-top-album)
+*   🎤 [Le mie classifiche Hip-Hop](./album/top-album-hip-hop.md)
+
+
+---
+
+> 💡 **Come funziona:** Clicca su "📖 Leggi" per aprire la recensione completa dell'album.
+
 
 ## 💿 Le Recensioni (A-Z)
 
@@ -22,15 +34,6 @@ Questo file è l'elenco riepilogativo di tutti i dischi, EP e mixtape recensiti 
 | **Måneskin** | *Teatro d'ira - Vol. I* | 2021 | Rock | - | [📖 Leggi](./album/Måneskin%20-%20Teatri%20D'%20Ira%20Vol.%201.MD) |
 | **P38** | *Nuove BR* | 2021 | Rap/Trap | - | [📖 Leggi](./album/P38%20-%20Dittatura.md) |
 | **Subsonica** | *Microchip Temporale* | 2019 | Elettronica | - | [📖 Leggi](./album/Subsonica%20-%20Microchip%20Temporale.md) |
-
----
-
-## 🏆 Recap e Classifiche
-
-Se stai cercando i "Best Of" e i resoconti annuali, li trovi raggruppati qui:
-
-*   🥇 [Le mie classifiche di fine anno (AOTY)](./album/README.md#🏆-le-mie-classifiche-top-album)
-*   🎤 [Le mie classifiche Hip-Hop](./album/top-album-hip-hop.md)
 
 ---
 ⬅️ **[Torna alla Home principale del Diario Musicale](./README.md)**
