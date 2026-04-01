@@ -1,4 +1,4 @@
-# Archivio Ascolti 2026
+# Ascolti in corso
 
 ## 💿 Album pubblicati quest'anno
 
