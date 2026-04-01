@@ -2,8 +2,6 @@
 
 Questo file è l'elenco riepilogativo di tutti i concerti e gli eventi live vissuti e recensiti in questo archivio. È pensato per offrirti una panoramica rapida, senza dover scorrere le singole cartelle.
 
-> 💡 **Come funziona:** Clicca su "📖 Leggi" per aprire la recensione completa del concerto.
-
 ---
 
 ## 🏆 Recap 
@@ -22,6 +20,8 @@ Questo file è l'elenco riepilogativo di tutti i concerti e gli eventi live viss
 *   📅 [2026](./concerti/storico-database/2026.csv) **Work in progress**
 
 ---
+
+> 💡 **Come funziona:** Clicca su "📖 Leggi" per aprire la recensione completa del concerto.
 
 ## 🎸 Le recensioni (A-Z)
 
