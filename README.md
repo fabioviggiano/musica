@@ -15,9 +15,8 @@ Ho organizzato i contenuti in cartelle tematiche per facilitare la navigazione:
 *   📡 **[`/release-radar`](./release-radar)** — Elenco completo delle nuove uscite musicali di ogni venerdì, raccolte e archiviate meticolosamente dal 2019 ad oggi.
 *   📂 **[`/album`](./album)** — Recensioni di dischi, EP e nuove uscite.
 *   🎫 **[`/concerti`](./concerti)** — Reportage e recensioni dei concerti dal vivo.
-*   🎪 **[`/festival`](./festival)** — Diari di bordo e recensioni dei festival musicali a cui ho partecipato.
 *   🎤 **[`/eventi-stampa`](./eventi-stampa)** — Appunti, dichiarazioni e articoli da conferenze stampa o eventi di settore.
-*   🎧 **[`/ascolti`](./ascolti)** — Il mio diario di ascolto (cosa bolle nelle mie cuffie in periodi specifici).
+*   🎧 **[`/ascolti`](./album/ascolti-2026.md)** — Il mio diario di ascolto (cosa bolle nelle mie cuffie in periodi specifici).
 *   🍿 **[`/extra`](./extra)** — Contenuti off-topic: recensioni di film, serie TV, spettacoli e appuntamenti culturali.
 
 ## 🧭 Indici Rapidi
