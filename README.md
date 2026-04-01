@@ -4,9 +4,17 @@
 ![Live](https://img.shields.io/badge/Live-Concerti_%26_Festival-FF4136?style=flat-square&logo=ticketmaster&logoColor=white)
 ![Release Radar](https://img.shields.io/badge/Archivio-Release_Radar_dal_2019-000000?style=flat-square)
 
-Benvenuto nel mio diario di bordo sonoro. Questo repository è uno spazio personale ma aperto, dove raccolgo e metto in ordine le mie esperienze legate al mondo della musica (e non solo). 
+# Fabio Viggiano
 
-Qui troverai recensioni ragionate, reportage di concerti sotto cassa, appunti da conferenze stampa e, soprattutto, un **archivio storico ininterrotto dal 2019 di tutte le uscite musicali del venerdì**.
+Classe 1989, origini per metà campane e per metà sicule, sono stato folgorato dalla musica già in adolescenza. I miei primi ascolti risalgono ai viaggi in macchina con i genitori, tra Beatles e De André, mentre il primo disco che comprai fu delle Spice Girls, a soli 9 anni.  
+
+Con il tempo ho esplorato e spaziato tra generi musicali diversi, sviluppando una passione particolare per la musica dal vivo. La mia folgorazione definitiva è avvenuta probabilmente prima dei 10 anni, durante un primo concerto a Roma di Lou Reed. Da allora, concerti con amici e amiche sono diventati una costante della mia vita.  
+
+Negli anni abbiamo fondato un’associazione culturale nel Casertano, che tra le varie attività organizzava concerti e eventi musicali. Durante le superiori, Pia Di Donato, la mia docente d’informatica all’istituto tecnico commerciale, propose a me e a due compagni di scrivere recensioni per il portale **CasertaMusica.com**. È stato in quel momento che ho capito che la mia passione non era solo ascoltare musica o assistere ai concerti, ma anche raccontarla: attraverso webzine, articoli, reel o qualsiasi mezzo che permettesse di trasmettere ciò che la musica suscita in me.  
+
+Attualmente collaboro attivamente con **Festivalsbackpack.it**
+
+Oggi questo diario di bordo sonoro è il mio spazio personale, ma aperto: un luogo dove raccogliere recensioni ragionate, reportage di concerti, appunti da conferenze stampa e, soprattutto, un archivio storico ininterrotto dal 2019 di tutte le uscite musicali del venerdì.
 
 ## 🗂 Struttura del Repository
 
