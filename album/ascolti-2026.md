@@ -1,6 +1,36 @@
 # Ascolti in corso
 
-## 💿 Album pubblicati quest'anno
+## ⭐ Preferiti del 2026
+
+### 🎸 Rock / Metal
+- **Zu** — *Ferrum Sidereum* (Jazz metal)
+- **Kula Shaker** — *Wormslayer* (Psychedelic rock)
+- **IST IST** — *Dagger* (Post-punk)
+- **To Die On Ice** — *Panoramica degli abissi* (Post-hardcore)
+
+### 🎛️ Elettronica / Sperimentale
+- **PVA** — *No More Like This* (Electronic)
+- **Hate Moss** — *A Hot Mess* (Electronic)
+- **Backengrillen** — *Backengrillen* (Jazzcore)
+
+### 🎤 Hip Hop / Rap
+- **Danno** — *AKA Danno*
+- **Kanye West** — *Bully*
+- **Adria The Reject** — *Caccia alle streghe*
+
+### 🎷 Jazz / Funk / Soul
+- **Neoprimitivi** — *Il sangue nostro* (Funk jazz)
+
+### 🎵 Pop / Indie / Altro
+- **Santamarea** — *Anime Storte* (Alt-pop)
+- **Subsonica** — *Terre Rare* (Electronic rock)
+- **James Blake** — *Trying Times* (Soul / Electronic)
+- **Flea** — *Honora* (Alternative rock / Jazz)
+- **Motorpsycho** — *The Gaia II Space Corps* (Psychedelic rock)
+
+****
+
+## 💿 Album ascoltati quest'anno
 
 | Artista | Album | Genere | Nazionalità | Data di uscita | Ascolto |
 | :--- | :--- | :--- | :---: | :--- | :--- |
@@ -38,7 +68,7 @@
 
 ---
 
-## ⏳ Recuperi dagli anni passati
+## ⏳ Recuperi d' ascolto dagli anni passati
 
 | Artista | Album | Genere | Nazionalità | Data di uscita | Ascolto |
 | :--- | :--- | :--- | :---: | :--- | :--- |
@@ -55,7 +85,7 @@
 
 ---
 
-## 📝 Da recuperare
+## 📝 Da recuperare (Ancora non ascoltati ma li segno qui per futura memoria)
 
 | Artista | Album | Genere | Nazionalità | Data di uscita | Ascolto |
 | :--- | :--- | :--- | :---: | :--- | :--- |
@@ -63,15 +93,4 @@
 | **To Die On Ice** | PANORAMICA DEGLI ABISSI | 🎵 Post-Hardcore | 🇮🇹 [IT] | 06 Febbraio 2026 | 🔗 [Spotify](https://open.spotify.com/intl-it/album/2ZCeFdQ9UsAZIkbHqkF2Uz?si=bSiBIoWyS2uln4n91hLE1g) |
 
 
-## ⭐ Preferiti al momento
 
-- **Zu**
-- **PVA**
-- **Santamarea**
-- **Kula Shaker**
-- **Hate Moss**
-- **Backengrillen**
-- **Neoprimitivi**
-- **Danno**
-- **IST IST**
-- **Subsonica**
