@@ -1,4 +1,4 @@
-# 💽 Album: Recensioni e Classifiche
+# 💽 Album: Recensioni e classifiche
 
 Benvenuto nella mia **discoteca virtuale**!  
 
