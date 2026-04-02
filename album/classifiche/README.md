@@ -4,7 +4,9 @@ In questa cartella troverai le mie **classifiche musicali**.
 Al momento sono presenti:
 
 ### 🎤 Classifiche "assolute"
-- kubj
+
+- [Top of the top](https://github.com/fabioviggiano/musica/blob/main/album/classifiche/Top%20of%20the%20top.md)  
+
 
 ### 📅 Classifiche annuali
 - [Top Album 2017](./top-album-2017.md)  
