@@ -3,6 +3,9 @@
 In questa cartella troverai le mie **classifiche musicali**.  
 Al momento sono presenti:
 
+### 🎤 Classifiche "assolute"
+- kubj
+
 ### 📅 Classifiche annuali
 - [Top Album 2017](./top-album-2017.md)  
 - [Top Album 2018](./top-album-2018.md)  
