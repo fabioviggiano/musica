@@ -1,15 +1,28 @@
-| #  | Data       | Evento                                    | Location                     | Città    | Tipologia | Artista/i |
-|----|------------|-------------------------------------------|------------------------------|----------|-----------|------------|
-| 1  | 09/01/2026 | Egreen + Kaos & DJ Craim                  | Locomotiv Club               | Bologna  | Concerto  | 2          |
-| 2  | 10/01/2026 | Zu                                        | TPO                          | Bologna  | Concerto  | 1          |
-| 3  | 16/01/2026 | Tony Pitoni                               | Estragon Club                | Bologna  | Concerto  | 1          |
-| 4  | 17/01/2026 | Elly De Mon + Cut "Riportando tutti a casa" | Covo Club                  | Bologna  | Concerto  | 2          |
-| 5  | 22/01/2026 | A90                                       | Centro Sociale della Pace    | Bologna  | Concerto  | 1          |
-| 6  | 24/01/2026 | Lostatobrado                              | Locomotiv Club               | Bologna  | Concerto  | 1          |
-| 7  | 04/02/2026 | Danielle                                  | Efesto House                 | Bologna  | Concerto  | 1          |
-| 8  | 14/02/2026 | La Famiglia                               | Locomotiv Club               | Bologna  | Concerto  | 1          |
-| 9  | 16/02/2026 | Zu                                        | Freakout Club                | Bologna  | Concerto  | 1          |
-| 10 | 17/02/2026 | Barattoli di Te                           | Mercanzia                    | Bologna  | Concerto  | 1          |
-| 11 | 20/02/2026 | DJ Shocca 60Hz II Club Tour               | LINK                         | Bologna  | Concerto  | 1          |
-| 12 | 28/02/2026 | Krasue + To die on ice                    | Freakout Club                | Bologna  | Concerto  | 2          |
-| 13 | 01/03/2026 | Mood + Bologna Violenta                   | Freakout Club                | Bologna  | Concerto  | 2          |
+# Concerti Bologna 2026
+
+| # | Data | Evento | Location | Città | Tipologia |
+|---|------|--------|----------|-------|-----------|
+| 1 | 09/01/2026 | Egreen + Kaos & DJ Craim | Locomotiv Club | Bologna | Concerto |
+| 2 | 10/01/2026 | Zu | TPO | Bologna | Concerto |
+| 3 | 16/01/2026 | Tony Pitoni | Estragon Club | Bologna | Concerto |
+| 4 | 17/01/2026 | Elly De Mon + Cut "Riportando tutti a casa" | Covo Club | Bologna | Concerto |
+| 5 | 22/01/2026 | A90 | Centro Sociale della Pace | Bologna | Concerto |
+| 6 | 24/01/2026 | Lostatobrado | Locomotiv Club | Bologna | Concerto |
+| 7 | 04/02/2026 | Danielle | Efesto House | Bologna | Concerto |
+| 8 | 14/02/2026 | La Famiglia | Locomotiv Club | Bologna | Concerto |
+| 9 | 16/02/2026 | Zu | Freakout Club | Bologna | Concerto |
+| 10 | 17/02/2026 | Barattoli di Te | Mercanzia | Bologna | Concerto |
+| 11 | 20/02/2026 | DJ Shocca 60Hz II Club Tour | LINK | Bologna | Concerto |
+| 12 | 28/02/2026 | Krasue + To die on ice | Freakout Club | Bologna | Concerto |
+| 13 | 01/03/2026 | Mood + Bologna Violenta | Freakout Club | Bologna | Concerto |
+| 14 | 02/03/2026 | Mika | Unipol Arena | Bologna | Concerto |
+| 15 | 08/03/2026 | Wu Tang Clan | Unipol Arena | Bologna | Concerto |
+| 16 | 13/03/2026 | Liriche | Il Randagio | Bologna | Concerto |
+| 17 | 14/03/2026 | Apertura + Dorso | Mezz'aria | Bologna | Concerto |
+| 18 | 14/03/2026 | Gruppo apertura - Bee Bee Sea | Covo Club | Bologna | Concerto |
+| 19 | 15/03/2026 | Scumma Do Mar | Circolo Hex | Bologna | Concerto |
+| 20 | 17/03/2026 | Fabiana Martone | Torre Unipol | Bologna | Concerto |
+| 21 | 21/03/2026 | Neoprimitivi | Locomotiv Club | Bologna | Concerto |
+| 22 | 22/03/2026 | Neffa | Estragon Club | Bologna | Concerto |
+| 23 | 27/03/2026 | Setti + Gee Whiz | Freakout Club | Bologna | Concerto |
+| 24 | 29/03/2026 | Suarez + Danno & Dj Craim | Estragon Club | Bologna | Concerto |
