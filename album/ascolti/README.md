@@ -1,16 +1,11 @@
-# 💽 Album: Recensioni e Classifiche
+# 🎧 Ascolti
 
-Benvenuto nella mia **discoteca virtuale**!  
-Qui raccogliamo i dischi ascoltati, le recensioni e le classifiche dei miei ascolti.  
+In questa cartella troverai il **diario dei miei ascolti**.  
+Al momento ci sono due file principali:
 
----
-
-## 📂 Contenuti principali
-
-- **[Ascolti](./ascolti/README.md)** – Diario degli ascolti quotidiani  
-- **[Classifiche](./classifiche/README.md)** – Le mie classifiche annuali e per genere  
-- **[Recensioni](./recensioni/README.md)** – Recensioni dettagliate degli album  
+- **Ascolti dal passato** – Registro degli album dal passato che sto recuperando in questo 2026.  
+- **Album in ascolto 2026** – Lista dei dischi pubblicati quest'anno che sto ascoltando.
 
 ---
 
-⬅️ **[Torna alla Home principale del Diario Musicale](../README.md)**
+⬅️ **[Torna alla sezione Album](../README.md)**
