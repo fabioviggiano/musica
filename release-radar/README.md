@@ -6,6 +6,8 @@ Questa semplice abitudine è rapidamente evoluta in una vera e propria raccolta,
 
 Ci sono stati momenti in cui non sono riuscito a essere regolare, saltando qualche uscita per altri impegni, ma ho sempre avuto il rammarico di non poter condividere tutte le novità.
 
+I reel Instagram pubblicati li trovi qui: **[Elenco reel](https://github.com/fabioviggiano/musica/blob/main/release-radar/reel-instagram.md)**
+
 ---
 
 ## 📂 Cosa troverai qui
