@@ -1,0 +1,48 @@
+# 🎬 Reels
+
+## 📡 Release Radar
+
+| Data | Artisti | Reel |
+|------|---------|------|
+| 2025-08-29 | Casamatta, Neffa, The Hives, Blood Orange | [▶](https://www.instagram.com/festivalsbackpack/reel/DN8oPxZDZQO/) |
+| 2025-09-05 | Fine Before You Came, Sick Luke, David Byrne, Faithless | [▶](https://www.instagram.com/viggiagram/reel/DOOTrTjDKDR/) |
+| 2025-09-26 | Tropico | [▶](https://www.instagram.com/festivalsbackpack/reel/DPD5XRaja4J/) |
+| 2025-10-10 | — | [▶](https://www.instagram.com/festivalsbackpack/reel/DPoGqK-jOku/) |
+| 2025-10-17 | Andrea Laszlo De Simone | [▶](https://www.instagram.com/festivalsbackpack/reel/DP5_roSDOxh/) |
+| 2025-10-24 | Kolosso | [▶](https://www.instagram.com/festivalsbackpack/reel/DQMEfgXDeP7/) |
+| 2025-10-31 | — | [▶](https://www.instagram.com/festivalsbackpack/reel/DQezpzzjcpr/) |
+| 2025-11-14 | Black Veils, Gaslight | [▶](https://www.instagram.com/festivalsbackpack/reel/DRCc5kTDKl3/) |
+| 2025-11-21 | Vari artisti | [▶](https://www.instagram.com/viggiagram/reel/DRUX3-FDEKv/) |
+| 2025-11-28 | Leatherette | [▶](https://www.instagram.com/viggiagram/reel/DRma1rUjMbD/) |
+| 2025-12-12 | — | [▶](https://www.instagram.com/festivalsbackpack/reel/DSKx4a3DAVz/) |
+| 2025-12-19 | — | [▶](https://www.instagram.com/festivalsbackpack/reel/DSc1rLWDGkd/) |
+| — | Flea | [▶](https://www.instagram.com/viggiagram/reel/DWYp_p6jOB4/) |
+| — | Gee Whiz | [▶](https://www.instagram.com/festivalsbackpack/reel/DVikWZdjTA-/) |
+| 2026-04-03 | Angine De Potrine | [▶](https://www.instagram.com/viggiagram/reel/DWqc6sUjHiq/) |
+| — | Fulci | [▶](https://www.instagram.com/festivalsbackpack/reel/DWGvdWlDT4c/) |
+| — | Quercia | [▶](https://www.instagram.com/festivalsbackpack/reel/DV0nokJjdSN/) |
+| — | Newt | [▶](https://www.instagram.com/festivalsbackpack/reel/DVQgCMADcNM/) |
+| — | Bologna Violenta | [▶](https://www.instagram.com/festivalsbackpack/reel/DU-fmwOjVi2/) |
+| — | Sacrobosco | [▶](https://www.instagram.com/festivalsbackpack/reel/DUsiCZyjR9D/) |
+| — | Neoprimitvi | [▶](https://www.instagram.com/festivalsbackpack/reel/DUaU6-DDYFk/) |
+| — | Sleaford Mods | [▶](https://www.instagram.com/festivalsbackpack/reel/DTkYxgMDU5u/) |
+| — | Zu | [▶](https://www.instagram.com/festivalsbackpack/reel/DTS_DqpDIyt/) |
+
+---
+
+## 🎤 Concerti
+
+| Data | Artista | Venue | Reel |
+|------|---------|-------|------|
+| 2026-03-22 | Neffa | Estragon Club | [▶](https://www.instagram.com/viggiagram/reel/DWOtywSjLQ_/) |
+| — | Neoprimitvi | Locomotiv Club | [▶](https://www.instagram.com/viggiagram/reel/DWLtHDhjJtD/) |
+| — | Marie Davidson | Locomotiv Club | [▶](https://www.instagram.com/festivalsbackpack/reel/DROt3fSjZIZ/) |
+
+---
+
+## 📣 Lanci Concerti
+
+| Data | Artista | Reel |
+|------|---------|------|
+| — | Marie Davidson | [▶](https://www.instagram.com/festivalsbackpack/reel/DQ7XtwNjRuK/) |
+| — | Ekkstacy | [▶](https://www.instagram.com/festivalsbackpack/reel/DRrRD20DY9-/) |
