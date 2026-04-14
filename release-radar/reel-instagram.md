@@ -46,7 +46,8 @@ Totale complessivo: 29 reel 🎬
 | 2026-03-21 | Neoprimitvi | Locomotiv Club | [▶](https://www.instagram.com/viggiagram/reel/DWLtHDhjJtD/) |
 | 2026-03-22 | Neffa | Estragon Club | [▶](https://www.instagram.com/viggiagram/reel/DWOtywSjLQ_/) |
 | 2026-03-27 | Gee Whiz | Freakout  Club | [▶](https://www.instagram.com/reels/DWbRCzRDKnZ/) |
-| 2026-05-02 | Gentilesky | Freakout Club | [▶](https://www.instagram.com/p/DW1k2EqDFuP/) |
+| 2026-04-02 | Gentilesky | Freakout Club | [▶](https://www.instagram.com/p/DW1k2EqDFuP/) |
+| 2026-04-14 | Tame Impala | Unipol Arena | [▶](https://www.instagram.com/p/DXF4lsCiJpk/) |
 
 ---
 
