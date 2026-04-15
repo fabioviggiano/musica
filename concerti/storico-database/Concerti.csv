@@ -11,7 +11,7 @@
 10,08/05/2009,Ministri,Ex Canapificio,Caserta (CE),Concerto,1
 11,11/09/2009,Elton John,Piazza Plebiscito,Napoli,Concerto,1
 12,13/10/2009,99 Posse,CSA Ex Canapificio,Caserta,Concerto,1
-13,26/07/2010,Baustelle @ Giffoni Film Festival,Giffoni (SA),Concerto,1
+13,26/07/2010,Baustelle @ Giffoni Film Festival,Giffoni Film Festival,Giffoni (SA),Concerto,1
 14,20/08/2010,The Prodigy - Limp Bizkit - Foals - Digitalism @ Pukkelpop 25,Hasselt Kiewit,Hasselt (BE),Festival,4
 15,21/08/2010,Queens of the Stone Age - Jonsi - Soulwax - Gogol Bordello - Bad Religion @ Pukkelpop 25,Hasselt Kiewit,Hasselt (BE),Festival,4
 16,10/10/2010,Michael Angelo Batio,Bikers Road,Casapulla (CE),Concerto,1
@@ -19,7 +19,7 @@
 18,08/04/2011,Subsonica (Eden),Palamaggiò,Castel Morrone (CE),Concerto,4
 19,01/05/2011,Caparezza + Francesco De Gregori e Lucio Dalla + Subsonica + Bandabardò + Daniele Silvestri @ Concerto del Primo Maggio,Piazza San Giovanni,Roma,Festival,10
 20,17/06/2011,Giuliano Palma & The Bluebeathers,Arenile,Napoli,Concerto,1
-21,09/07/2011,Ministri @ Radio Entropia Indie Fest,Marigliano (NA),Concerto,1
+21,09/07/2011,Ministri @ Radio Entropia Indie Fest,Radio Entropia Indie Fest,Marigliano (NA),Concerto,1
 22,10/07/2011,Battles - Crocodiles - Underworld @ Neapolis Festival,Fiera D'Oltremare,Napoli,Festival,3
 23,13/07/2011,The Chemical Brothers @ Rock In Roma,Ippodromo delle Capannelle,Roma,Concerto,1
 24,30/07/2011,24 Grana @ Voci Dal Sud Festival,Area Stadio Comunale,Sant'Arsenio (SA),Festival,1
@@ -41,7 +41,7 @@
 40,02/06/2013,La musica può fare 2,Villa Cristina,Santa Maria Capua Vetere (CE),Festival,3
 41,08/06/2013,Iron Maiden @ Sonisphere Festival,Arena Fiera Milano,Rho (MI),Festival,4
 42,20/07/2013,Elio e le storie tese,Giffoni,Giffoni (SA),Concerto,1
-43,07/09/2013,Franco Battiato @ Settembre al Borgo,Casertavecchia (CE),Concerto,1
+43,07/09/2013,Franco Battiato @ Settembre al Borgo,Borgo Medievale di Casertavecchia,Casertavecchia (CE),Concerto,1
 44,13/10/2013,Sabba e gli Incensurabili,Club 33 Giri,Santa Maria Capua Vetere (CE),Concerto,1
 45,17/11/2013,Giovanni Truppi,Club 33 Giri,Santa Maria Capua Vetere (CE),Concerto,1
 46,30/11/2013,Capone & BungtBangt,Mercato del riuso,Santa Maria Capua Vetere (CE),Concerto,1
@@ -51,17 +51,17 @@
 50,08/06/2014,Ex-Otago + Gnut + The Fabbrica 2.0 @ La Musica può fare 3,Villa Gaetano Cappabianca,Santa Maria Capua Vetere (CE),Festival,3
 51,19/06/2014,Lo Stato Sociale,Mostra D'Oltremare,Napoli,Concerto,1
 52,01/07/2014,Metallica + Alice in Chains + Volbeat @ Rock in Roma,Ippodromo delle Capannelle,Roma,Festival,3
-53,01/08/2014,I Cani - ex CSI @ Zungoli Festival,Zungoli (AV),Festival,3
-54,08/08/2014,Foja + I Cani @ Le notti dell'aspide,Roccadaspide (SA),Festival,3
-55,09/08/2014,Giorgio Canali & Rossofuoco + The Zen Circus @ Le notti dell'aspide,Roccadaspide (SA),Festival,3
-56,10/08/2014,Levante + Mama Marjas @ Le notti dell'aspide,Roccadaspide (SA),Festival,3
+53,01/08/2014,I Cani - ex CSI @ Zungoli Festival,Zungoli Festival,Zungoli (AV),Festival,3
+54,08/08/2014,Foja + I Cani @ Le notti dell'aspide,Le notti dell aspide,Roccadaspide (SA),Festival,3
+55,09/08/2014,Giorgio Canali & Rossofuoco + The Zen Circus @ Le notti dell'aspide,Le notti dell aspide,Roccadaspide (SA),Festival,3
+56,10/08/2014,Levante + Mama Marjas @ Le notti dell'aspide,Le notti dell aspide,Roccadaspide (SA),Festival,3
 57,31/07/2014,Fiorella Mannoia,Mura greche,Gela (CL),Concerto,1
 58,14/03/2015,Sabba e gli Incensurabili,Club 33 Giri,Santa Maria Capua Vetere (CE),Concerto,1
 59,20/03/2015,Caparezza - Sogno Eretico,Palapartenope,Napoli,Concerto,1
 60,23/05/2015,Pepp - Oh 'Sono un cantante di rap' live,Club 33 Giri,Santa Maria Capua Vetere (CE),Concerto,1
 61,21/06/2015,Sabba e gli Incensurabili - Gnut - Ex Otago @ La Musica può fare 4,Villa Gaetano Cappabianca,Santa Maria Capua Vetere (CE),Festival,3
 62,09/07/2015,AC/DC - Rock Or Bust World Tour,Autodromo Enzo e Dino Ferrari,Imola,Concerto,2
-63,25/07/2015,Giorgio Moroder @ Estathe Market Sound,Milano,Concerto,2
+63,25/07/2015,Giorgio Moroder @ Estathe Market Sound,Estathe Market Sound,Milano,Concerto,2
 64,04/09/2015,Caparezza - Museica tour,Carroponte,Milano,Concerto,1
 65,18/09/2015,Ministri presentano Cultura Generale,Mondadori,Milano,Concerto,1
 66,24/10/2015,Ministri,Estragon Club,Bologna,Concerto,1
@@ -109,7 +109,7 @@
 108,06/08/2016,Airway + Afterhours @ Suoni Di Marca,Mura,Treviso,Concerto,2
 109,14/08/2016,NOFX + STRUNG OUT + Talco @ Bay Fest,Beky Bay,Bellaria Igea Marina (RN),Festival,F
 110,15/08/2016,Screeching Weasel + Satanic Surfers + Derozer @ Bay Fest,Beky Bay,Bellaria Igea Marina (RN),Concerto,F
-111,18/08/2016,Ministri @ Frogstock,Riolo Terme (RA),Concerto,1
+111,18/08/2016,Ministri @ Frogstock,Frogstock,Riolo Terme (RA),Concerto,1
 112,20/08/2016,Planet Funk @ Festareggio,Campovolo,Reggio Emilia,Concerto,1
 113,24/08/2016,Wolfmother @ Festareggio,Campovolo,Reggio Emilia,Concerto,F
 114,01/09/2016,Home Festival - Day 1,Ex Dogana,Treviso,Festival,F
