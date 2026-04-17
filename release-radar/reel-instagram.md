@@ -36,6 +36,8 @@ Totale complessivo: 32 reel 🎬
 | 2026-03-27 | Flea - Honora | [▶](https://www.instagram.com/viggiagram/reel/DWYp_p6jOB4/) |
 | 2026-04-03 | Angine De Potrine - Vol. 2 | [▶](https://www.instagram.com/viggiagram/reel/DWqc6sUjHiq/) |
 | 2026-04-10 | Amari - Le cose che voglio | [▶](https://www.instagram.com/p/DW8k0u9jOw6/) |
+| 2026-04-17 | Cosmo - La fonte | [▶](https://www.instagram.com/p/DXOh9dDDD76/) |
+
 ---
 
 ## 🎤 Concerti
