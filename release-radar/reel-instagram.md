@@ -50,6 +50,7 @@ Totale complessivo: 32 reel 🎬
 | 2026-03-27 | Gee Whiz | Freakout  Club | [▶](https://www.instagram.com/reels/DWbRCzRDKnZ/) |
 | 2026-04-02 | Gentilesky | Freakout Club | [▶](https://www.instagram.com/p/DW1k2EqDFuP/) |
 | 2026-04-14 | Tame Impala | Unipol Arena | [▶](https://www.instagram.com/p/DXF4lsCiJpk/) |
+| 2026-04-18 | Stormo - "Sogni che invadono il cielo" Release Party | DAS Bologna | [▶](https://www.instagram.com/viggiagram/reel/DXSmVQ7DEa1/) |
 
 ---
 
