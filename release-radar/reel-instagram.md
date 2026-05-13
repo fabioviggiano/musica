@@ -37,6 +37,9 @@ Totale complessivo: 32 reel 🎬
 | 2026-04-03 | Angine De Potrine - Vol. 2 | [▶](https://www.instagram.com/viggiagram/reel/DWqc6sUjHiq/) |
 | 2026-04-10 | Amari - Le cose che voglio | [▶](https://www.instagram.com/p/DW8k0u9jOw6/) |
 | 2026-04-17 | Cosmo - La fonte | [▶](https://www.instagram.com/p/DXOh9dDDD76/) |
+| 2026-04-24 | Marco Fracasia - 4321hz | [▶](https://www.instagram.com/p/DXOh9dDDD76/) |
+| 2026-05-01 | Kneecap - Fenian | [▶](https://www.instagram.com/viggiagram/reel/DXyrRvXsLox/) |
+| 2026-05-08| So Beat - Untouchable  | [▶](https://www.instagram.com/viggiagram/reel/DYFPS18s0qZ/) |
 
 ---
 
@@ -51,7 +54,7 @@ Totale complessivo: 32 reel 🎬
 | 2026-04-02 | Gentilesky | Freakout Club | [▶](https://www.instagram.com/p/DW1k2EqDFuP/) |
 | 2026-04-14 | Tame Impala | Unipol Arena | [▶](https://www.instagram.com/p/DXF4lsCiJpk/) |
 | 2026-04-18 | Stormo - "Sogni che invadono il cielo" Release Party | DAS Bologna | [▶](https://www.instagram.com/viggiagram/reel/DXSmVQ7DEa1/) |
-
+| 2026-05-11 | Puma Blue | Locomotiv Club | [▶] (https://www.instagram.com/viggiagram/reel/DYOTKX5oaBX/) |
 ---
 
 ## 📣 Lanci Concerti
