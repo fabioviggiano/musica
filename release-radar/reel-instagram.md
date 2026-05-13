@@ -45,16 +45,17 @@ Totale complessivo: 32 reel 🎬
 
 ## 🎤 Concerti
 
-| Data | Artista | Venue | Reel |
-|------|---------|-------|------|
-| 2025-11-18 | Marie Davidson | Locomotiv Club | [▶](https://www.instagram.com/festivalsbackpack/reel/DROt3fSjZIZ/) |
-| 2026-03-21 | Neoprimitvi | Locomotiv Club | [▶](https://www.instagram.com/viggiagram/reel/DWLtHDhjJtD/) |
-| 2026-03-22 | Neffa | Estragon Club | [▶](https://www.instagram.com/viggiagram/reel/DWOtywSjLQ_/) |
-| 2026-03-27 | Gee Whiz | Freakout  Club | [▶](https://www.instagram.com/reels/DWbRCzRDKnZ/) |
-| 2026-04-02 | Gentilesky | Freakout Club | [▶](https://www.instagram.com/p/DW1k2EqDFuP/) |
-| 2026-04-14 | Tame Impala | Unipol Arena | [▶](https://www.instagram.com/p/DXF4lsCiJpk/) |
-| 2026-04-18 | Stormo - "Sogni che invadono il cielo" Release Party | DAS Bologna | [▶](https://www.instagram.com/viggiagram/reel/DXSmVQ7DEa1/) |
-| 2026-05-11 | Puma Blue | Locomotiv Club | [▶] (https://www.instagram.com/viggiagram/reel/DYOTKX5oaBX/) |
+| Data       | Artista                                                  | Venue           | Reel |
+|------------|-----------------------------------------------------------|-----------------|------|
+| 2025-11-18 | Marie Davidson                                           | Locomotiv Club  | [▶](https://www.instagram.com/festivalsbackpack/reel/DROt3fSjZIZ/) |
+| 2026-03-21 | Neoprimitivi                                             | Locomotiv Club  | [▶](https://www.instagram.com/viggiagram/reel/DWLtHDhjJtD/) |
+| 2026-03-22 | Neffa                                                    | Estragon Club   | [▶](https://www.instagram.com/viggiagram/reel/DWOtywSjLQ_/) |
+| 2026-03-27 | Gee Whiz                                                 | Freakout Club   | [▶](https://www.instagram.com/reels/DWbRCzRDKnZ/) |
+| 2026-04-02 | Gentilesky                                               | Freakout Club   | [▶](https://www.instagram.com/p/DW1k2EqDFuP/) |
+| 2026-04-14 | Tame Impala                                              | Unipol Arena    | [▶](https://www.instagram.com/p/DXF4lsCiJpk/) |
+| 2026-04-18 | Stormo – "Sogni che invadono il cielo" Release Party     | DAS Bologna     | [▶](https://www.instagram.com/viggiagram/reel/DXSmVQ7DEa1/) |
+| 2026-05-11 | Puma Blue                                                | Locomotiv Club  | [▶](https://www.instagram.com/viggiagram/reel/DYOTKX5oaBX/) |
+
 ---
 
 ## 📣 Lanci Concerti
