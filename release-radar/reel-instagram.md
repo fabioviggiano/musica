@@ -40,6 +40,7 @@ Totale complessivo: 32 reel 🎬
 | 2026-04-24 | Marco Fracasia - 4321hz | [▶](https://www.instagram.com/p/DXOh9dDDD76/) |
 | 2026-05-01 | Kneecap - Fenian | [▶](https://www.instagram.com/viggiagram/reel/DXyrRvXsLox/) |
 | 2026-05-08| So Beat - Untouchable  | [▶](https://www.instagram.com/viggiagram/reel/DYFPS18s0qZ/) |
+| 2026-05-15| Rareş - Sincero!  | [▶](https://www.instagram.com/p/DYWVRDpsqDr/) |
 
 ---
 
