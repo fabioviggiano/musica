@@ -24,4 +24,4 @@ Questa cartella raccoglie le recensioni dei concerti a cui ho partecipato nel te
 - [Robot Festival 2025 @ Dumbo](./Robot%20Festival%202025%20%40%20Dumbo.md)
 - [Roger Waters @ Unipol Arena](./Roger%20Waters%20%40%20Unipol%20Arena.md)
 - [The Zen Circus @ Teatro Duse](./The%20Zen%20Circus%20%40%20Teatro%20Duse.md)
-- https://github.com/fabioviggiano/musica/blob/main/concerti/recensioni/2026.05.20%20-%20Marco%20Castello%20@%20Estragon%20Club.md
+- [Marco Castello @ Locomotiv Club](./2026.05.24%20-%20Lleroy%20XV%20%40%20Locomotiv%20Club.md.md)
