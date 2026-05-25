@@ -22,4 +22,12 @@ Anche la versione di Soldatino, pur essendo molto distante dal fumetto, personal
 
 E forse è proprio questo il punto positivo: invece di farmi pensare “che disastro”, mi ha fatto venire voglia di leggermi il fumetto. Perché si percepisce chiaramente che sotto c’è un’altra struttura narrativa, più feroce, più cinica e diversa in tanti aspetti chiave. Se una serie riesce a chiudersi lasciandoti ancora curiosità e voglia di approfondire il materiale originale, vuol dire che qualcosa l’ha fatta decisamente bene.
 
+!! Ciò che segue contiene spoiler dal fumetto invece !!
+
+
+
+
+
+
+
 Se si fosse voluto seguire il fumetto in modo più rigido, probabilmente si sarebbe dato meno spazio a The Deep — che comunque ha regalato una quantità enorme di momenti comici memorabili — e si sarebbe mantenuto molto più centrale il gioco narrativo attorno a Noir, che nel fumetto ha un peso completamente diverso.
