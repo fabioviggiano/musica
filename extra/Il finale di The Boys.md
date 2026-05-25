@@ -2,6 +2,8 @@
 
 ## 25 Maggio 2026
 
+! Contiene spoiler !
+
 Non è il miglior finale della storia delle serie TV, e non credo voglia nemmeno esserlo. Però è un finale estremamente lineare e coerente rispetto alla direzione presa da *The Boys* nelle ultime due stagioni, e già questo oggi vale tantissimo.  
 
 Soprattutto se si pensa a quanti show enormi siano arrivati distrutti all’ultima curva: *Breaking Bad*, *Better Call Saul*, *Mad Men* o anche *Sons of Anarchy* restano esempi di finali eccellenti perché chiudono il proprio mondo in maniera organica e fedele al percorso fatto. Al contrario, ci sono serie come *Prison Break*, finite con una sensazione quasi di disgusto per quanto fosse stato raffazzonato tutto il finale, oppure *Game of Thrones*, dove probabilmente sarebbe bastato più tempo — magari una stagione in più o anche solo un film conclusivo — per dare respiro agli eventi e sistemare molti passaggi narrativi.
