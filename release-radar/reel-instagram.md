@@ -6,7 +6,7 @@ Totale reel:
 - 🎤 Concerti: 20
 - 📣 Lanci Concerti: 2
 
-Totale complessivo: 32 reel 🎬
+Totale complessivo: 41 reel 🎬
 
 ## 📡 Release Radar
 
