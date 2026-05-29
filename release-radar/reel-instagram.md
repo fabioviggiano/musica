@@ -41,6 +41,7 @@ Totale complessivo: 41 reel 🎬
 | 2026-05-01 | Kneecap - Fenian | [▶](https://www.instagram.com/viggiagram/reel/DXyrRvXsLox/) |
 | 2026-05-08| So Beat - Untouchable  | [▶](https://www.instagram.com/viggiagram/reel/DYFPS18s0qZ/) |
 | 2026-05-15| Rareş - Sincero!  | [▶](https://www.instagram.com/p/DYWVRDpsqDr/) |
+| 2026-05-22| Ministri - Canzoni Ombra   | [▶]() |
 
 ---
 
@@ -67,3 +68,8 @@ Totale complessivo: 41 reel 🎬
 |------|---------|------|
 | 2025-11 | Marie Davidson | [▶](https://www.instagram.com/festivalsbackpack/reel/DQ7XtwNjRuK/) |
 | 2025-11 | Ekkstacy | [▶](https://www.instagram.com/festivalsbackpack/reel/DRrRD20DY9-/) |
+
+## Rassegne
+
+| Eufonica 2026 | [▶]https://www.instagram.com/p/DYcCuuMt1xa/) |
+
