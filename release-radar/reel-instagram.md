@@ -58,7 +58,19 @@ Totale complessivo: 41 reel 🎬
 | 2026-04-18 | Stormo – "Sogni che invadono il cielo" Release Party     | DAS Bologna     | [▶](https://www.instagram.com/viggiagram/reel/DXSmVQ7DEa1/) |
 | 2026-05-11 | Puma Blue                                                | Locomotiv Club  | [▶](https://www.instagram.com/viggiagram/reel/DYOTKX5oaBX/) |
 | 2026-05-22 | Marco Castello                                           | Estragon Club   | [▶](https://www.instagram.com/viggiagram/reel/DYowBAFs_6A/) |
-| 2026-05-24 | LLeroy XV                                          | Locomotiv Club   | [▶](https://www.instagram.com/p/DYwVsQtMcxn/) |
+| 2026-05-24 | Lleroy Antares, Cacao, Die Abete, Lucertulas e Rope | Locomotiv Club   | [▶](https://www.instagram.com/p/DYwVsQtMcxn/) |
+| 2026-06-03 | Metallica Pop Up Store                             | Dumbo             | [▶](https://www.instagram.com/p/DZHickatG7y/) |
+| 2026-06-04 | Metallica + Gojira + Knocked Loose                 | Stadio Renato Dall'Ara | [▶](https://www.instagram.com/p/DZJMREWC8fk/) |
+| 2026-06-11 | Primavera Sound Porto                              | Porto             | [▶](https://www.instagram.com/viggiagram/reel/DZkeZZsM-59/) |
+| 2026-06-16 | Kaos One & Egreen + Kneecap @ Sequoie Music Park   | Parco delle Caserme Rosse | [▶](https://www.instagram.com/p/DZrwhzWs-1e/) |
+| 2026-06-18 | Oltre Festival                                     | Parco delle Caserme Rosse | [▶](https://www.instagram.com/viggiagram/reel/DZ5t92fMgf0/) |
+| 2026-07-04 | Idles @ Sequoie Music Park                         | Parco delle Caserme Rosse | [▶](https://www.instagram.com/p/DaY35GRNxST/) |
+| 2026-07-07 | Caparezza @ Sequoie Music Park                     | Parco delle Caserme Rosse | [▶](https://www.instagram.com/p/DaiWmWdsaCD/) |
+| 2026-07-11 | Blood Incantation + Opeth @ Sequoie Music Park     | Parco delle Caserme Rosse | [▶](https://www.instagram.com/p/DasRaBZswM6/) |
+| 2026-07-12 | Neoprimitivi + I Cani @ Bonsai Garden               | Parco delle Caserme Rosse | [▶](https://www.instagram.com/p/Daw1FrwMeOd/) |
+| 2026-07-16 | Elio e le storie tese @ Bonsai Garden               | Parco delle Caserme Rosse | [▶](https://www.instagram.com/p/Da4wVVMsaie/) |
+| 2026-07-18 | Tony Pitony @ Sequoie Music Park                   | Parco delle Caserme Rosse | [▶](https://www.instagram.com/p/Da-UZ_JsVLd/) |
+| 2026-07-22 | Ministri @ Ferrara Sotto le Stelle                 | Cortile del Castello Estense | [▶](https://www.instagram.com/p/DbIj_hssaDq/) |
 
 ---
 
@@ -66,8 +78,10 @@ Totale complessivo: 41 reel 🎬
 
 | Data | Artista | Reel |
 |------|---------|------|
-| 2025-11 | Marie Davidson | [▶](https://www.instagram.com/festivalsbackpack/reel/DQ7XtwNjRuK/) |
-| 2025-11 | Ekkstacy | [▶](https://www.instagram.com/festivalsbackpack/reel/DRrRD20DY9-/) |
+| 2025-11-18 | Marie Davidson | Locomotiv Club | [▶](https://www.instagram.com/festivalsbackpack/reel/DQ7XtwNjRuK/) |
+| 2025-12-01 | Ekkstacy | Locomotiv Club | [▶](https://www.instagram.com/festivalsbackpack/reel/DRrRD20DY9-/) |
+| 2026-04-16 |Notwist | Locomotiv Club [▶]() |
+
 
 ## Rassegne
 
