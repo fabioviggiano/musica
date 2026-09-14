@@ -2,11 +2,12 @@
 
 Totale reel:
 
-- 📡 Release Radar: 30
-- 🎤 Concerti: 22
-- 📣 Lanci Concerti: 3
+- 📡 Release Radar: 32
+- 🎤 Concerti: 23
+- 📣 Lanci Concerti: 4
+- 🗓️ Rassegne: 1
 
-Totale complessivo: 56 reel 🎬
+Totale complessivo: 60 reel 🎬
 
 ## 📡 Release Radar
 
@@ -39,9 +40,11 @@ Totale complessivo: 56 reel 🎬
 | 2026-04-17 | Cosmo - La fonte | [▶](https://www.instagram.com/p/DXOh9dDDD76/) |
 | 2026-04-24 | Marco Fracasia - 4321hz | [▶](https://www.instagram.com/p/DXOh9dDDD76/) |
 | 2026-05-01 | Kneecap - Fenian | [▶](https://www.instagram.com/viggiagram/reel/DXyrRvXsLox/) |
-| 2026-05-08| So Beat - Untouchable  | [▶](https://www.instagram.com/viggiagram/reel/DYFPS18s0qZ/) |
-| 2026-05-15| Rareş - Sincero!  | [▶](https://www.instagram.com/p/DYWVRDpsqDr/) |
-| 2026-05-22| Ministri - Canzoni Ombra   | [▶]() |
+| 2026-05-08 | So Beat - Untouchable | [▶](https://www.instagram.com/viggiagram/reel/DYFPS18s0qZ/) |
+| 2026-05-15 | Rareş - Sincero! | [▶](https://www.instagram.com/p/DYWVRDpsqDr/) |
+| 2026-05-22 | Ministri - Canzoni Ombra | [▶]() |
+| 2026-09-04 | Corto Alto | [▶](https://www.instagram.com/p/Dc3I-oTMo4h/) |
+| 2026-09-11 | Ibibio Sound Machine, Ezra Collective, Bloc Party | [▶](https://www.instagram.com/p/DdJz5C2ouUH/) |
 
 ---
 
@@ -71,19 +74,23 @@ Totale complessivo: 56 reel 🎬
 | 2026-07-16 | Elio e le storie tese @ Bonsai Garden               | Parco delle Caserme Rosse | [▶](https://www.instagram.com/p/Da4wVVMsaie/) |
 | 2026-07-18 | Tony Pitony @ Sequoie Music Park                   | Parco delle Caserme Rosse | [▶](https://www.instagram.com/p/Da-UZ_JsVLd/) |
 | 2026-07-22 | Ministri @ Ferrara Sotto le Stelle                 | Cortile del Castello Estense | [▶](https://www.instagram.com/p/DbIj_hssaDq/) |
+| 2026-08-01 | Orchestra sinfonica (concerto all'alba)                              | Reggia di Caserta | [▶](https://www.instagram.com/p/Dbfy0EkMrcR/) |
 
 ---
 
 ## 📣 Lanci Concerti
 
-| Data | Artista | Reel |
-|------|---------|------|
+| Data | Artista | Venue | Reel |
+|------|---------|-------|------|
 | 2025-11-18 | Marie Davidson | Locomotiv Club | [▶](https://www.instagram.com/festivalsbackpack/reel/DQ7XtwNjRuK/) |
 | 2025-12-01 | Ekkstacy | Locomotiv Club | [▶](https://www.instagram.com/festivalsbackpack/reel/DRrRD20DY9-/) |
-| 2026-04-16 |Notwist | Locomotiv Club [▶]() |
+| 2026-04-16 | Notwist | Locomotiv Club | [▶]() |
+| 2026-08-27 | Fontaines D.C. | Unipol Arena | [▶](https://www.instagram.com/p/DcjaCMBs8t0/) |
 
+---
 
-## Rassegne
+## 🗓️ Rassegne
 
-| Eufonica 2026 | [▶]https://www.instagram.com/p/DYcCuuMt1xa/) |
-
+| Data | Rassegna | Venue | Reel |
+|------|----------|-------|------|
+| 2026-04-16 | Eufonica 2026 | Bologna Fiere | [▶](https://www.instagram.com/p/DYcCuuMt1xa/) |
